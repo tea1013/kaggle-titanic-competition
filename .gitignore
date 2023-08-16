@@ -145,7 +145,6 @@ build
 .idea
 .vscode
 *.code-workspace
-*.ipynb
 *.f
 *.csv
 *.tsv
